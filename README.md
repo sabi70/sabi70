@@ -7,7 +7,8 @@ About me:
 - ⚡ Fun fact: Unstable character☢️.
 - 💬️ Ask me about: Everything except 🎯️
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sabi70&theme=tokyonight" alt="mystreak"/>
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sabi70&theme=tokyonight" alt="mystreak"/>
 
 
 
