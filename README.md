@@ -8,7 +8,9 @@ About me:
 - 💬️ Ask me about: Everything except 🎯️
 
 
-<center><img src="https://github-readme-streak-stats.herokuapp.com/?user=sabi70&theme=tokyonight" alt="mystreak"/></center>
+<div align='center'>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sabi70&theme=tokyonight" alt="mystreak"/>
+</div>
 
 
 
