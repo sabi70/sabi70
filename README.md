@@ -7,7 +7,7 @@ About me:
 - ⚡ Fun fact: Unstable character☢️.
 - 💬️ Ask me about: Everything except 🎯️
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sabi70&show_icons=true&locale=en&layout=compact&theme=charactereuse-dark" alt="ovi"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabi70&show_icons=true&locale=en&layout=compact&theme=charactereuse-dark" alt="ovi"/>
 
 
 <!--This is from local repo-->
