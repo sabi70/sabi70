@@ -4,7 +4,7 @@ About me:
 
 - 🔭 I’m currently studying at the institute.
 - 🌱 I’m currently learning Frontend dev.
-- ⚡ Fun fact: Unstable character☢️.
+- ⚡ Fun fact: Unstable character☢️. random.choice([😀️, 😑️, 😡️, 🥺️])
 - 💬️ Ask me about: Everything except 🎯️
 
 
