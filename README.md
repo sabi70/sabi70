@@ -1,4 +1,4 @@
-### Hi there👋️ I'm Meylis, and u can call me sabi70. (like one hunter🥷️ in 'Demon Slayers')
+### Hi there👋️ I'm Meylis, and u can call me sabi70. 
 
 About me:
 
