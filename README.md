@@ -1,4 +1,4 @@
-<div align="center">Hi there👋️ I'm Meylis, and u can call me sabi70.</div>
+<div align="center">Hi there👋️.</div>
 
 About me:
 
