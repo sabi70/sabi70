@@ -9,7 +9,7 @@ About me:
 
 
 <div align='center'>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sabi70&theme=tokyonight" alt="mystreak"/>
+    <img src="https://myreadme.vercel.app/api/embed/sabi70?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="my info"/>
 </div>
 
 
