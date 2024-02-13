@@ -1,20 +1,9 @@
-### Hi there👋️.
-
-About me:
+<h1>Hi there, I am Meylis:man_technologist:</h1>
 
 - 🔭 I’m currently studying at the institute.
 - 🌱 I’m currently learning Frontend dev.
-- ⚡ Fun fact: Unstable character☢️.
-- 💬️ Ask me about: Everything except 🎯️
-<br>
-<div align="center">
-    <a href="">
-        <img alt="gmail" title="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-    </a>
-    <a href="">
-        <img alt="linkedin" title="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </a>
-</div>
+- ⚡ Fun fact: Unstable character. random.choice([😑️, 😁️, 🥺️, 😡️])
+- 💬️ Ask me about anything, anytime☺️
 
 
 
