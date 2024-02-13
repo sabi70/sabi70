@@ -1,4 +1,4 @@
-<h1>Hi there, I am Meylis:man_technologist:</h1>
+<h1>Hi there, I am Meylis</h1>:man_technologist:
 
 - 🔭 I’m currently studying at the institute.
 - 🌱 I’m currently learning Frontend dev.
