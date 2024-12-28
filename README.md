@@ -5,7 +5,7 @@
 - ⚡ Fun fact: Unstable character. random.choice([😑️, 😁️, 🥺️, 😡️])
 - 💬️ Ask me about anything, anytime☺️
   
-[![Anurag's Github stats](https://github-readme-stats.vercel.app/api?username=sabi70&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's Github stats](https://github-readme-stats.vercel.app/api?username=sabi70&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
