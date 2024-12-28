@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Frontend dev.
 - ⚡ Fun fact: Unstable character. random.choice([😑️, 😁️, 🥺️, 😡️])
 - 💬️ Ask me about anything, anytime☺️
-(https://github-readme-stats.vercel.app/api?username=sabi70/gihub-readme-stats)
+[![Anurag's Github stats](https://github-readme-stats.vercel.app/api?username=sabi70/gihub-readme-stats)
 
 
 
