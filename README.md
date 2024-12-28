@@ -1,4 +1,4 @@
-### :smiley Hi! Nice to see you there.
+### :smiley: Hi! Nice to see you there.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there,+I+am+Meylis;Currently+diving+into;captivating+world+of;web+development&width=450)](https://git.io/typing-svg)
 
