@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there,+I+am+Meylis;Currently+diving+into;captivating+world+of;web+development&center=true)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there,+I+am+Meylis;Currently+diving+into;captivating+world+of;web+development&center=true&width=100%)](https://git.io/typing-svg)
 
 
 - 🔭 I’m currently studying at the institute.
