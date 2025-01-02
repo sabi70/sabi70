@@ -4,6 +4,8 @@
   <img src="user.a40a30c0.png" width="350px" />
 </div>
 
+![Django](https://img.shields.io/badge/Django-darkgreen?logo=django?type)
+
 #### Ranking up on Codewars:
 <img src="https://www.codewars.com/users/sabi70/badges/large" />
 
