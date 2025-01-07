@@ -16,7 +16,7 @@
 
 #### Top used languages:
 
-[![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=sabi70&layout=compact&bg_color=DEG,ffecb3,ffcc80,ffab91)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=sabi70&layout=compact&bg_color=DEG,e3f2fd,bbdefb,90caf9)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
