@@ -10,8 +10,9 @@
 ![docker](https://img.shields.io/badge/Docker-white?logo=docker&logoColor=blue)
 ![postman](https://img.shields.io/badge/Postman-orange?logo=postman&logoColor=white)
 ![css](https://img.shields.io/badge/CSS-0096FF?logo=css&logoColor=white)
-![javascript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=yellow&labelColor=black)
-![npm](https://img.shields.io/badge/NPM-red?logo=npm&logoColor=white)
+![javascript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)
+![vue.js](https://img.shields.io/badge/Vue.js-white?logo=vue.js&logoColor=4caf50)
+![vuetify](https://img.shields.io/badge/Vuetify-white?logo=vuetify&logoColor=blue)
 ![gimp](https://img.shields.io/badge/GIMP-white?logo=gimp&logoColor=grey)
 
 #### Top used languages:
